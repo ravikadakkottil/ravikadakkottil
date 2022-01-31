@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ravikadakkottil
-- 👀 I’m interested in Data Science, Machine Learning, Data Analytics
 - 📫 How to reach me ravikadakkottil@gmail.com
 
 <!---
